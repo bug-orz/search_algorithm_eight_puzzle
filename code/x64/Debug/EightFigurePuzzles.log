@@ -1,0 +1,10 @@
+﻿  eightFigurePuzzlesFramework.cpp
+C:\Users\YYH\Desktop\AI导论作业\code\eightFigurePuzzlesFramework.cpp(70): warning C4172: 返回局部变量或临时变量的地址: result
+C:\Users\YYH\Desktop\AI导论作业\code\eightFigurePuzzlesFramework.cpp(132): warning C4172: 返回局部变量或临时变量的地址: result
+C:\Users\YYH\Desktop\AI导论作业\code\eightFigurePuzzlesFramework.cpp(95): warning C4172: 返回局部变量或临时变量的地址: result
+C:\Users\YYH\Desktop\AI导论作业\code\eightFigurePuzzlesFramework.cpp(160): warning C4172: 返回局部变量或临时变量的地址: result
+C:\Users\YYH\Desktop\AI导论作业\code\eightFigurePuzzlesFramework.cpp(253): warning C4172: 返回局部变量或临时变量的地址: result
+C:\Users\YYH\Desktop\AI导论作业\code\eightFigurePuzzlesFramework.cpp(306): warning C4172: 返回局部变量或临时变量的地址: result
+C:\Users\YYH\Desktop\AI导论作业\code\eightFigurePuzzlesFramework.cpp(347): warning C4172: 返回局部变量或临时变量的地址: result
+C:\Users\YYH\Desktop\AI导论作业\code\eightFigurePuzzlesFramework.cpp(373): warning C4172: 返回局部变量或临时变量的地址: result
+  EightFigurePuzzles.vcxproj -> C:\Users\YYH\Desktop\AI导论作业\code\x64\Debug\EightFigurePuzzles.exe

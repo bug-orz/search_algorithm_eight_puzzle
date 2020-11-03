@@ -1,0 +1,2 @@
+C:\Users\YYH\Desktop\AI导论作业\code\x64\Debug\EightFigurePuzzles.exe
+C:\Users\YYH\Desktop\AI导论作业\code\x64\Debug\EightFigurePuzzles.pdb
